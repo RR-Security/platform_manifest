@@ -6,7 +6,7 @@
   </project>
   <project path="android" name="platform_manifest" remote="rr"/>
   <project path="external/android-visualizer" name="android_external_android-visualizer" remote="rr"/>
-  <project path="external/chromium-webview" name="android_external_chromium-webview" remote="github" revision="cm-13.0" />
+  <project path="external/chromium-webview" name="RR-Security/android_external_chromium-webview" remote="github" revision="cm-13.0" />
   <project path="external/DUtils" name="external_DUtils" remote="rr" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="rr" />
   <project path="frameworks/av" name="frameworks_av" remote="rr" />
