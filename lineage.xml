@@ -30,6 +30,7 @@
   <project path="external/bouncycastle" name="LineageOS/android_external_bouncycastle" groups="pdk" />
   <project path="external/brctl" name="LineageOS/android_external_brctl" />
   <project path="external/bzip2" name="LineageOS/android_external_bzip2" groups="pdk" />
+  <project path="external/chromium-libpac" name="LineageOS/android_external_chromium-libpac" groups="pdk-fs" remote="github" />
   <project path="external/cmsdk-api-coverage" name="LineageOS/android_external_cmsdk-api-coverage" />
   <project path="external/connectivity" name="LineageOS/android_external_connectivity" />
   <project path="external/curl" name="LineageOS/android_external_curl" />
@@ -113,6 +114,7 @@
   <project path="external/uicommon" name="LineageOS/android_external_cyanogen_UICommon" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" />
   <project path="external/unzip" name="LineageOS/android_external_unzip" />
+  <project path="external/v8" name="LineageOS/android_external_v8" groups="pdk" remote="github" />
   <project path="external/vim" name="LineageOS/android_external_vim" />
   <project path="external/vogar" name="LineageOS/android_external_vogar" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="LineageOS/android_external_wpa_supplicant_8" groups="pdk" />
